@@ -1,0 +1,22 @@
+body {
+  background-color: #ced4da;
+}
+
+.main-container {
+  padding-top: 2.5rem;
+}
+
+h1 {
+  color: #6c757d;
+  text-decoration: underline;
+}
+
+.label {
+  color: #6c757d;
+  text-decoration: underline;
+}
+
+p {
+  color: #6c757d;
+  text-decoration: underline;
+}

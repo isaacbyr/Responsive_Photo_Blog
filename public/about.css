@@ -1,0 +1,16 @@
+body {
+  background-color: #adb5bd;
+}
+
+.image {
+  width: 100%;
+}
+
+h2 {
+  color: white;
+  text-decoration: underline;
+}
+
+p {
+  color: white;
+}

@@ -1,0 +1,15 @@
+.navbar {
+  border-bottom: solid black 0.8px;
+  padding-bottom: 2px;
+  margin-bottom: 2px;
+}
+
+.nav-link {
+  color: white;
+  font-weight: bold;
+}
+
+.active {
+  text-decoration: underline;
+  font-size: 17px;
+}

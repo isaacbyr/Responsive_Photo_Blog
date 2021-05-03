@@ -1,0 +1,43 @@
+body {
+  /* background-color: #b7b7a4; */
+  background-color: #adb5bd;
+  position: relative;
+  min-height: 100vh;
+}
+
+.title {
+  color: white;
+  font-size: 2.5rem;
+  letter-spacing: 0.1em;
+}
+
+img {
+  width: 100%;
+}
+
+.para {
+  color: white;
+  font-size: 15px;
+}
+
+.para1 {
+  color: white;
+  font-size: 18px;
+}
+
+.picHead1 {
+  color: white;
+  text-decoration: underline;
+  font-size: 25px;
+}
+
+.picHead {
+  color: white;
+  text-decoration: underline;
+  font-size: 20px;
+}
+
+.mainHead {
+  color: white;
+  text-decoration: underline;
+}
